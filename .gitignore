@@ -1,0 +1,9 @@
+.vs
+*.obj
+*.dll
+*.lib
+*.exp
+*.pdb
+/.sconsign.dblite
+src/*.o
+/bin/web/mapgen.web.template_debug.wasm32.wasm
